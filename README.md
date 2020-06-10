@@ -1,3 +1,11 @@
+# Install
+
+  npm install
+
+# Run
+
+use npm run start or yarn start to run it on local server
+
 # Frontend Mentor - Easybank landing page
 
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
