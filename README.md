@@ -12,6 +12,11 @@ use npm run start or yarn start to run it on local server
 
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
 
+# Technologies
+* HTML
+* CSS/SCSS
+* JavaScript
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
